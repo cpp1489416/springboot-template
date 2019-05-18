@@ -11,7 +11,7 @@
     <groupId>xyz.cxc6922</groupId>
     <artifactId>springboot-template</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>springboot-template</name>
     <description>Demo project for Spring Boot</description>
 
